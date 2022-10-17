@@ -16,3 +16,10 @@ Plus, at the end of the course, you'll walk away with an actual project -- [an o
 Find me on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2NRM6)
+
+## Resources
+The site - https://htmlpreview.github.io/?https://github.com/ori-shav/css-essential-training/blob/master/css-portfolio/index.html
+
+https://www.w3.org/Style/CSS/
+
+https://developer.mozilla.org/en-US/docs/Web/css
